@@ -22,8 +22,8 @@
 
 <br />
 
-<!-- Cards Stats Tema Purple (Alternative Mirror) -->
+<!-- Cards Stats Tema Purple (Provider Stabil) -->
 <div align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=Alyssesyn&theme=dracula&show_icons=true&hide_border=false&border_color=6343a8" />
-  <img height="165" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=Alyssesyn&theme=dracula&layout=compact&hide_border=false&border_color=6343a8" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Alyssesyn&theme=dracula&hide_border=false&border=6343a8" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alyssesyn&theme=dracula" />
 </div>
