@@ -12,7 +12,7 @@
 
 <br />
 
-<!-- Skill Badges Versi Violet Theme -->
+<!-- Skill Badges -->
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -22,8 +22,8 @@
 
 <br />
 
-<!-- Alternative Stats Card (Aman dari Error) -->
+<!-- Cards Stats Tema Purple (Alternative Mirror) -->
 <div align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alyssesyn&theme=tokyonight&show_icons=true&hide_border=false" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alyssesyn&theme=tokyonight&layout=compact&hide_border=false" />
+  <img height="165" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=Alyssesyn&theme=dracula&show_icons=true&hide_border=false&border_color=6343a8" />
+  <img height="165" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=Alyssesyn&theme=dracula&layout=compact&hide_border=false&border_color=6343a8" />
 </div>
