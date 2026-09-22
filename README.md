@@ -22,8 +22,8 @@
 
 <br />
 
-<!-- Cards Stats Tema Purple (Provider Stabil) -->
+<!-- Cards Stats Custom Dark Violet Theme -->
 <div align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Alyssesyn&theme=dracula&hide_border=false&border=6343a8" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alyssesyn&theme=dracula" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Alyssesyn&background=1a0e33&border=6343a8&stroke=8e5bf5&ring=ad8bff&fire=ad8bff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ad8bff&sideLabels=c1b2e6&dates=8e5bf5" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alyssesyn&theme=violet_dark" />
 </div>
