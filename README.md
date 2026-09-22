@@ -22,8 +22,8 @@
 
 <br />
 
-<!-- Cards Stats Dark Violet Theme (100% Matching) -->
+<!-- Cards Stats Dark Violet Theme (100% Anti Error & Matching) -->
 <div align="center">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Alyssesyn&background=1a0e33&border=6343a8&stroke=8e5bf5&ring=ad8bff&fire=ad8bff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ad8bff&sideLabels=c1b2e6&dates=8e5bf5" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alyssesyn&bg_color=1a0e33&title_color=ad8bff&text_color=ffffff&icon_color=ad8bff&border_color=6343a8&show_icons=true&hide_border=false" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alyssesyn&theme=dracula" />
 </div>
